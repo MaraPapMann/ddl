@@ -1,2 +1,2 @@
-# Dataset Distillation Leaks
+# DDL
 Codes will be released after acceptance.
